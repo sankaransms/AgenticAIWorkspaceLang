@@ -1,0 +1,8 @@
+## To run the Debugging in the langsmith
+Step: 1 Go to the folder 
+	cmd: cd 6-Debugging
+Step: 2 
+        cmd: laggraph dev
+
+To stop: 
+       cmd: ctrl + c
