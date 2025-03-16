@@ -1,0 +1,23 @@
+
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+bs4
+faiss-cpu
+langchain-google-genai
+langfuse
+unstructured[all-docs]
+tavily-python
+streamlit
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+langchain-ollama
+langchain_groq # (or) langchain-groq 
+langgraph
+langgraph-cli[inmem]
